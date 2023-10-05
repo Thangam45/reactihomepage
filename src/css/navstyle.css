@@ -1,0 +1,171 @@
+.div-tgmenu-wrap {
+    border-bottom-style: solid;
+    border-bottom-width: 1.01px;
+    border-color: #e8e8e8;
+    border-top-style: solid;
+    border-top-width: 1.01px;
+    height: 112px;
+    width: 1450px;
+  }
+  
+  .div-tgmenu-wrap .overlap-group {
+    height: 24px;
+    left: 40px;
+    position: relative;
+    top: 20px;
+    width: 1375px;
+  }
+  
+  .div-tgmenu-wrap .group {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 1375px;
+  }
+  
+  .div-tgmenu-wrap .text-wrapper {
+    color: #616161;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 15.8px;
+    font-weight: 400;
+    height: 18px;
+    left: 1226px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+    width: 147px;
+  }
+  
+  .div-tgmenu-wrap .vector {
+    height: 18px;
+    left: 1198px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .div-tgmenu-wrap .img {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 23px;
+  }
+  
+  .div-tgmenu-wrap .div {
+    height: 24px;
+    left: 414px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+  }
+  
+  .div-tgmenu-wrap .navbar {
+    height: 15px;
+    left: 362px;
+    position: absolute;
+    top: 4px;
+    width: 660px;
+  }
+  
+  .div-tgmenu-wrap .text-wrapper-2 {
+    color: #111111;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-tgmenu-wrap .item-link-lifestyle {
+    color: #111111;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 195px;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-tgmenu-wrap .item-link-travel {
+    color: #111111;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 297px;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-tgmenu-wrap .text-wrapper-3 {
+    color: #111111;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 383px;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-tgmenu-wrap .item-link-NFT {
+    color: #111111;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 493px;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-tgmenu-wrap .item-link-NFT-2 {
+    color: #111111;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 607px;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-tgmenu-wrap .text-wrapper-4 {
+    color: #e21b22;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 15px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14.1px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }

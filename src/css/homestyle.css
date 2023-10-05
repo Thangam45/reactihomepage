@@ -1,0 +1,269 @@
+:root {
+    --retnewsnetlifyappathens-gray: rgba(248, 249, 250, 1);
+  }
+  
+  .section {
+    background-color: var(--retnewsnetlifyappathens-gray);
+    height: 160px;
+    max-width: 1447px;
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+  .box {
+    display: flex; 
+    gap: 20px; 
+    justify-content: space-around; 
+    max-width: 1447px; 
+    margin: 0 auto; 
+  }
+  .rectangle {
+    background-color: #f9f8f8;
+    border-radius: 6.10px;
+    flex: 1; 
+    padding: 20px;
+    text-align: center;
+  }
+  .content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .image {
+    flex-shrink: 0; 
+  }
+  .text-wrapper1.in-focus
+  {
+    color: #ffffff;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 12.4px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 15.8px;
+  margin-top: -0.94px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+  }
+  
+  .item-by-david-hall {
+    color: #e21b22;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 14.7px;
+    font-weight: 600;
+    line-height: 21.5px;
+    white-space: nowrap;
+  }
+  
+  .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16.3px;
+    font-weight: 400;
+    line-height: 20.3px;
+  }
+
+
+/* Ragul   */
+  
+.background {
+    background-image: url('D:/stodirt 3/denver/src/images/rahul.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 5.64px;
+    height: 347px;
+    width: 599px;
+    position: relative;
+  }
+  
+  .link-figure {
+    position: inherit;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    /* border-radius:px; */
+    text-align: center;
+  }
+  
+  .label1 .in-focus {
+   text-align: center;
+    height: 34px;
+    width: 87px;
+    color: rgb(247, 239, 239);
+    background-color: #e21b22;
+    border-radius: 2px;
+  }
+  
+  .label1 .text-content {
+    color: white; 
+    font-weight: bold; 
+  }
+  
+  .text-wrapper1{
+    padding-top: 15em;
+  }
+  
+  .in-focus {
+    color: #d55f5f;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 12.4px;
+    font-weight: 700;
+    height: 16px;
+    letter-spacing: 0;
+    line-height: 15.8px;
+    white-space: nowrap;
+  }
+  
+  .text-content {
+    color: #000;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .image1 {
+    height: 143px;
+    width: 191px;
+    display: flex;
+  } 
+
+  .img1 {
+    height: 90px;
+    left: 0;
+    top: 0;
+    width: 144px;
+  }
+ .label3 .link-multimedia
+ {
+        color: #e21b22;
+        font-family: "Roboto-SemiBold", Helvetica;
+        font-size: 11.1px;
+        font-weight: 600;
+        height: 8px;
+        left: 0;
+        letter-spacing: 0;
+        line-height: 19px;
+        top: 0;
+        white-space: nowrap;
+      
+ }
+ .label3 .text-wrapper1
+ {
+    color: #121212;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16.9px;
+    font-weight: 500;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 18.2px;
+    top: 0;
+    width: 422px;
+ }
+
+ .label3
+ {
+   display: inline;
+   padding-bottom: 20px;
+ }
+ .ashtag{
+    display: flex;
+ }
+ .section1
+ {
+    background-color: var(--retnewsnetlifyappathens-gray);
+    max-width: 1447px;
+    margin: 0 auto;
+ }
+ .item1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+
+  
+  .img1 {
+    max-width: 100px; 
+    height: 0 auto;  
+  }
+  
+  .link-multimedia {
+    flex-grow: 1; 
+  }
+  .wrap
+  {
+    display: flex;
+  }
+  .wrap .down-arrow
+  {
+    height: 17px;
+    left: 0;
+    object-fit: cover;
+    /* position: absolute; */
+    top: 0;
+    width: 17px;
+  }
+  
+ .wrap .text-wrapper2{
+    font: bolder;
+  }
+  
+  .down-arrow{
+  padding-bottom: 200px;
+    
+  }
+  .wrap .down-arrow{
+    padding-bottom: 70px;
+  }
+  .news {
+    height: 14px;
+    width: 112px;
+  }
+  
+  .news .link-heading {
+    color: #121212;
+    font-family: "Roboto-Medium", Helvetica;
+    font-size: 20.1px;
+    font-weight: 500;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24.1px;    
+    top: 0;
+    white-space: nowrap;
+  }
+  .container-flex{
+    display: flex;
+  }
+ .img3
+ {
+    height: 184px;
+    left: 0;
+    object-fit: cover;
+    top: 0;
+    width: 343px;
+ }
+ .part3 .bike-img
+ {
+    height: 280px;
+    left: 0;
+    object-fit: cover;
+    top: 0;
+    width: 336px;
+ }
+ .bike-img
+
+ {
+    height: 440px;
+    width: 338px;
+ }
+ .container
+ {
+  
+ } 
+ 
+  

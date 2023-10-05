@@ -1,0 +1,47 @@
+:root{
+  --mainColor:#fff;
+}
+header{
+  background-color: var(--mainColor);
+}
+.container{
+  width: 100%;
+  margin: 0 auto;
+}
+.container-flex{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.searches
+{
+  display: flex;
+  border: #fff;
+}
+.searchicon
+{
+  color:rgb(105, 99, 99)
+}
+.subscribe-btn
+{
+  height: 34px;
+  width: 87px;
+  color: rgb(247, 239, 239);
+  background-color: #e21b22;
+  border-radius: 0px;
+}
+.sign-in{
+  border: 0.67px solid;
+  border-color: #ececec;
+  height: 34px;
+  width: 87px;
+}
+.button
+{
+  justify-content: space-evenly;
+}
+
+
+
+
+  
