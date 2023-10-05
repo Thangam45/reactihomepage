@@ -12,8 +12,9 @@ function Nav() {
          <div className="div-tgmenu-wrap">
       <div className="overlap-group">
         <div className="group">
+           <img  className='text-wrapper5'src={climate} alt='No image'/>
           <div className="text-wrapper">Friday, 30 June 2023</div>
-          <img  src={climate} alt='No image'/>
+          
           <img  src={vector} alt='No image'/>
           
         </div>

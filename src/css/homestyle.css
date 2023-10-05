@@ -1,5 +1,7 @@
 :root {
     --retnewsnetlifyappathens-gray: rgba(248, 249, 250, 1);
+    --ret:rgba(255,255,255,1);
+    
   }
   
   .section {
@@ -20,7 +22,7 @@
     margin: 0 auto; 
   }
   .rectangle {
-    background-color: #f9f8f8;
+    background-color: #fff;
     border-radius: 6.10px;
     flex: 1; 
     padding: 20px;
@@ -247,23 +249,387 @@
     top: 0;
     width: 343px;
  }
- .part3 .bike-img
- {
-    height: 280px;
-    left: 0;
-    object-fit: cover;
-    top: 0;
-    width: 336px;
- }
- .bike-img
 
- {
-    height: 440px;
-    width: 338px;
- }
  .container
  {
-  
+  justify-content:flex-start;
+
  } 
+
+ .part2 {
+  flex: 1;
+  min-width: 300px;
+  padding: 55px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 800px; 
+}
+.link-heading {
+  font-weight: bold;
+}
+
+.wrapping
+{
+  color: #121212;
+  font-family:"Inter-medium ",Helvetica;
+  font-size: 16.9px;
+  font-weight:bolder;
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  top: 0;
+  width: 344px;
+}
+
+.part3 p
+{
+  color: #534b4b;
+  text-align: center;
+}
  
+ .part3
+ {
+  margin-bottom:0px ;
+  text-align: center;
+
+
+}
+.wrapping1
+{
+  width: 344px;
+  line-height: 22px;
+  font-family:"Inter-medium ",Helvetica;
+  color: #766e6e;
+}
+/* 
+.div.basic-collection 
+{
+  background-color: #e4babf;
+  border: 0.83px solid;
+  border-color: transparent;
+  border-radius: 4.98px;
+  height: 313px;
+  overflow: hidden;
+  width:446px
+}
+
+
+.basic-collection  .item2
+{
+  height: 90px;
+  left: -52px;
+  top: 234px;
+  width: 387px;
+}
+*/  
+.heading-editors
+{
+  color: #222222;
+  font-family: "Roboto-Bold" Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 8px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  top: 0;
+  white-space: nowrap;  
+}
+
+.heading-top
+{
+  color: #222222;
+  font-family: 'Inter-Regular',Helvetica;
+  font-size: 10.8px;
+  font-weight:400 ;
+  height: 8px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17.2px;
+  opacity: 0.7;
+  top: 0;
+  white-space: nowrap;
+} 
+.boxes
+{
+  display: flex;
+  /* width: 80px; */
+  justify-content: space-around;
+  /* padding-top:40px; */
   
+}
+
+.box-1
+{
+  display: inline;
+ 
+ 
+}
+.item2 .link-button 
+{
+  box-sizing: border-box;
+}
+
+
+.basic-collection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center; 
+  padding: 25px; 
+}
+.item2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 250px;
+}
+.box-1 {
+  text-align: center;
+}
+
+.heading-editors {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.link-button {
+  background-color: #fbfcfd;
+  color: #887d7d;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: auto;
+  
+}
+
+
+.rectangle3 {
+  display: flex;
+  flex-direction: row-reverse; 
+  align-items: center;
+  justify-content: space-between; 
+}
+
+.link-jpg {
+  max-width: 100px; 
+
+}
+
+.text-wrapper3 {
+  flex-grow: 1; 
+  margin-right: 10px; 
+  width: 200px;
+ 
+}
+.box-content1
+{
+  display: flex;
+  padding-right: 100px;
+  padding-bottom: 30px;
+}
+
+.paper-plane
+{
+  height: 42px;
+  left: 0;
+  object-fit: cover;
+  top: 0;
+  width: 42px;
+}
+.subs
+{
+  color: #111111;
+  font-family: "Noto serif-Bold",Helvetica;
+  font-size: 27.1px;
+  font-weight: 7000;
+  height: 42px;
+  left: 0;
+  letter-spacing: 0;
+  line-height:41.1px;
+  top: 0;
+  white-space: nowrap;
+}
+.but
+{
+  all:unset;
+  background-color: #e21b22;
+  border-radius: 4.07px;
+  box-sizing: border-box;
+  height: 28px;
+  width: 103px;
+}
+.btn 
+{
+ color: var(--ret);
+ font-family: "Hebbo-Regular",helvetica;
+ font-size: 10.8px;
+ font-weight: 400;
+ height: 8px;
+ left: 27px;
+ text-align: center;
+ top: 9px;
+ white-space: nowrap;
+}
+
+.control
+{
+  display: flex;
+}
+
+.wraps 
+{
+  color: #000000;
+  font-family: "Inherit-Regular",Helvetica;
+  font-size: 16.8px;
+  font-weight: 400;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wraps ul 
+{
+  margin-bottom: 30px;
+}
+
+.link-figure1
+{
+  
+}
+
+.background1 {
+  background-image: url('D:/stodirt 3/denver/src/images/rahul.png');
+  background-position: 20% 30%;
+  background-size: cover;
+  border-radius: 5.64px;
+  height: 277px;
+  width: 599px;
+  position: relative;
+}
+
+
+.part7 
+{
+  padding-top: 10px;
+  margin-bottom: 25px;
+}
+.part7 p
+{
+  color: #8d8686;
+  text-align: center;
+}
+.line 
+{
+  width: 70em;
+}
+
+.ellipse
+{
+  background-color: #ffedef;
+  border: 1px solid;
+  border-color: #cc0000;
+  border-radius: 3.3px;
+  height: 7px;
+  left: 0;
+  top:0;
+  width: 7px;
+}
+.ull{
+  display: flex;
+  margin-left: 45px;
+}
+.image7
+{
+  height: 131px;
+  width: 244px;
+}
+.text-wrapper7
+{
+  color: #121212;
+  font-family: "Inter-Medium ",Helvetica;
+  font-size: 13.5px;
+  font-weight: 500;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  top: 0;
+  width: 245px;
+}
+
+.lead
+{
+  display: flex;
+  justify-content:space-evenly;
+}
+
+.lead .reas
+{
+  font-weight: 800;
+}.black {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #000;
+  height: 450px;
+}
+
+.content-im {
+  text-align: center;
+  margin-top: 20px;
+  color: #ddd;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px;
+  color: #ddd;
+}
+
+.box8 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+  max-width: 800px; /* Adjust the maximum width as needed */
+}
+
+.rectangle8 {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: calc(33.33% - 20px); /* Split into three columns */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image8 {
+  width: 100%;
+  text-align: center;
+}
+
+.link-jpg3 {
+  max-width: 100%;
+  height: auto;
+}
+
+.link-jpg3 {
+  max-width: 100%;
+  height: auto;
+  position: sticky;
+  top: 0;
+  right: 0;
+}
+.change-image
+{
+  display: flex;
+}
