@@ -80,6 +80,12 @@
     width: 599px;
     position: relative;
   }
+ .box-content1 
+ {
+  background-color: #e88e8e;
+  padding-right: 10em;
+   
+ }
   
   .link-figure {
     position: inherit;
@@ -353,7 +359,7 @@
 } 
 .boxes
 {
-  display: flex;
+  display: inline;
   /* width: 80px; */
   justify-content: space-around;
   /* padding-top:40px; */
@@ -631,5 +637,5 @@
 }
 .change-image
 {
-  display: flex;
+  /* display: flex; */
 }
